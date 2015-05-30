@@ -42,11 +42,11 @@ body {
 
 html {
   /*font-family: "PT Serif", Georgia, "Times New Roman", serif;*/
-  font-family: "adobe-caslon-pro", "Times New Roman", serif;
+  font-family: "freight-text-pro", "adobe-caslon-pro", "Times New Roman", serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "adobe-caslon-pro", Helvetica, Arial, sans-serif;
+  font-family: "freight-text-pro", "adobe-caslon-pro", Helvetica, Arial, sans-serif;
   /*font-family: "PT Sans", Helvetica, Arial, sans-serif;*/
   font-weight: 400;
   color: #313131;

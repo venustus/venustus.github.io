@@ -140,3 +140,16 @@ References
 1. First two images are borrowed from: https://www.wikiwand.com/en/Disjoint-set_data_structure.
 2. Tarjan, Robert Endre (1975). "Efficiency of a Good But Not Linear Set Union Algorithm". Journal of the ACM 22 (2): 215–225. doi:10.1145/321879.321884
 3. https://class.coursera.org/algo2-004/lecture
+
+<div style="width: 600px;">
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- trial1 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5176759148011833"
+     data-ad-slot="3647185309"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>

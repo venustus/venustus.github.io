@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Why don't we speak to computers yet?
-date: '2015-06-27T18:50:00.000-08:00'
+date: '2015-07-31T18:50:00.000-08:00'
 author: Venkat Pedapati
 tags: evolution
-modified_time: '2015-06-027T18:50:00.000-08:00'
+modified_time: '2015-07-31T18:50:00.000-08:00'
 ---
 
 Every day, I drive through 15 kilometers of Bangalore traffic to commute to Office and it turns out to be the most 

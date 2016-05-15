@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Machine Learning for engineers
-date: '2016-05-15T18:50:00.000-08:00'
+date: '2016-05-14T18:50:00.000-08:00'
 author: Venkat Pedapati
 tags: machine learning
-modified_time: '2016-05-15T18:50:00.000-08:00'
+modified_time: '2016-05-14T18:50:00.000-08:00'
 ---
 
 It has been almost 3 years since I did my first course on [Machine Learning on Coursera](https://www.coursera.org/learn/machine-learning). Machine learning has evolved quite a lot in this short amount of time and in particular, there has been renewed interest in it's applications to many engineering problems. 

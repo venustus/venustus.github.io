@@ -3,7 +3,7 @@
 
   {% include head.html %}
 
-  <body>
+  <body class="theme-base-08 sidebar-overlay">
 
     {% include sidebar.html %}
 
@@ -28,7 +28,7 @@
       <div class="related">
         <h2>Previous Posts</h2>
         <ul class="related-posts">
-          {% for post in site.related_posts limit:3 %}
+          {% for post in site.posts offset:1 limit:3 %}
             <li>
               <h3>
                 <a href="{{ post.url }}">

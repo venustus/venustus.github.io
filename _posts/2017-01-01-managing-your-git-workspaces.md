@@ -13,9 +13,9 @@ Git has become the default standard for version control for more than a few year
 
 But Git has lot of commands and even for seasoned users, raw Git commands are an annoyance to remember and time consuming to type every time. I had explored various alternatives, including some GUIs for Git. Here are some of the trivial options I had tried:
 
-* GitHub Desktop for Mac (Free) - https://desktop.github.com - A UI client for GitHub from GitHub.
-* Tower ($79) - https://www.git-tower.com/mac/ - Most comprehensive UI toolkit for Git, but expensive.
-* SourceTree (Free) - https://www.sourcetreeapp.com
+* GitHub Desktop for Mac (Free) - [https://desktop.github.com](https://desktop.github.com) - A UI client for GitHub from GitHub.
+* Tower ($79) - [https://www.git-tower.com/mac/](https://www.git-tower.com/mac/) - Most comprehensive UI toolkit for Git, but expensive.
+* SourceTree (Free) - [https://www.sourcetreeapp.com](https://www.sourcetreeapp.com)
 
 But I felt that none of these addressed one of the fundamental problems I was facing with managing my works spaces. All of them seem to plug-in a user interface on top of Git features, by not focussing on workflows. As a result, these tools, at best, take same amount of time and effort as typing in actual git commands and at worst be a distraction from what we want to do. 
 

@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Managing your Git workspaces efficiently
 author: Venkata Pedapati
